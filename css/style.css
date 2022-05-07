@@ -54,14 +54,14 @@ header{
     text-align: right;
 }
 .subheader .subheader_phone{
-display: block;
-margin-top: 8px;
-color: #ffffff;
-font-size: 22px;
-font-weight: 400;
-text-transform: uppercase;
-text-align: right;
-line-height: 12px;
+    display: block;
+    margin-top: 8px;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: right;
+    line-height: 12px;
 }
 .subheader_btn{
     margin-top: 19px;
@@ -87,13 +87,13 @@ line-height: 12px;
     padding: 150px 0 135px 0;
 }
 .promo_header {
-font-weight: 700;
-font-size: 60px;
-text-transform: uppercase;
-color: #FFFFFF;
-line-height: 60px;
-margin: 0;
-text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    line-height: 60px;
+    margin: 0;
+    text-align: center;
 }
 .promo_subheader {
     font-weight: 700;
@@ -173,9 +173,9 @@ display: flex;
 width: 343px;
 }
 .subreasers_title {
- color: #1eacc7;
- font-size: 17px;
- font-weight: 400;
+    color: #1eacc7;
+    font-size: 17px;
+    font-weight: 400;
 }
 .reasers_text {
     color: #212121;
@@ -187,9 +187,9 @@ width: 343px;
 .subtitle{
     text-align: center;
     font-size: 17px;
-  margin-top: 19px;
-  color: #222222;
-  font-weight: 400;
+    margin-top: 19px;
+    color: #222222;
+    font-weight: 400;
 }
 .mobile{
     min-height: 864px;
